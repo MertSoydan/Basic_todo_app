@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen>
           controller: controller,
           tabs: <Widget>[
             Tab(text: "All"),
-            Tab(text: "Incomplete"),
+            Tab(text: "Uncomplete"),
             Tab(text: "Complete"),
           ],
         ),
